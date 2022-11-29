@@ -2,11 +2,8 @@
     <h1>Spaceship</h1>
 </div>
 
-<div>
-    [![Status do Projeto](https://img.shields.io/badge/Status_do_Projeto-Em_Andamento-yellow)](#)
-
-    [![Status do Curso](https://img.shields.io/badge/Linguagem-Java-orange)](#)
-</div>
+[![Status do Projeto](https://img.shields.io/badge/Status_do_Projeto-Em_Andamento-yellow)](#)
+[![Status do Curso](https://img.shields.io/badge/Linguagem-Java-orange)](#)
 
 <div>
     <p>
