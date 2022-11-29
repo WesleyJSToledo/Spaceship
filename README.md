@@ -7,7 +7,7 @@
 
 <div>
     <p>
-        Projeto com o intuito de por em prática conhecimentos de Java como Programação Orientada a Objetos entre outros conhecmentos
+        Projeto com o intuito de por em prática conhecimentos de Java como Programação Orientada a Objetos entre outros conhecimentos
     </p>
 
 </div>
